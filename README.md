@@ -11,3 +11,5 @@ Since [JavaMelody](https://github.com/javamelody/javamelody/wiki) v1.74, you can
 ```
 
 Please submit pull requests to improve this theme.
+
+![screenshot](raw/master/screenshot.png "Screenshot")
