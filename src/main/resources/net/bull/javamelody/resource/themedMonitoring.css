@@ -1,0 +1,50 @@
+/* JavaMelody dark theme to override the values in https://github.com/javamelody/javamelody/blob/master/javamelody-core/src/main/resources/net/bull/javamelody/resource/monitoring.css */
+
+body {
+	background-color: #222;
+	background: #222;
+	color: #c4c4c4;	
+}
+
+a {
+	color: #b4b4b4;
+}
+
+a:hover, a:visited:hover {
+	color: #ff7e20;
+}
+
+a:visited {
+	color: #7c7c7c;
+}
+
+th {
+	background-color: #333;
+}
+
+table tr.odd td {
+	background-color: #2c2c2c;
+}
+
+table tr.highlight td {
+	background-color: #444;
+}
+
+.tooltip {
+	/* pour que <div class=tooltip> soit comme <a> */
+	color: #b4b4b4;
+}
+
+.tooltip:hover em {
+	color: #999;
+	border: 1px solid #bbb;
+	background: #444;
+}
+
+form {
+	background-color: #6C6C6C;
+}
+
+.menuButton a {
+	color: #E5E5E5;
+}
