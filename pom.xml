@@ -7,6 +7,7 @@
 	<packaging>jar</packaging>
 	<name>JavaMelody - Dark theme</name>
 	<description>Dark UI theme for javamelody reports</description>
+	<url>https://github.com/javamelody/javamelody-dark-theme</url>
 	<licenses>
 		<license>
 			<name>ASL</name>
@@ -14,6 +15,18 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
+	<developers>
+		<developer>
+			<name>Emeric Vernat</name>
+			<email>evernat@free.fr</email>
+		</developer>
+	</developers>
+	<scm>
+		<connection>scm:git:git@github.com:javamelody/javamelody-dark-theme.git</connection>
+		<developerConnection>scm:git:git@github.com:javamelody/javamelody-dark-theme.git</developerConnection>
+		<url>https://github.com/javamelody/javamelody-dark-theme</url>
+		<tag>HEAD</tag>
+	</scm>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
