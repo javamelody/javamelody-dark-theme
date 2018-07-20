@@ -3,7 +3,7 @@
 
 ![screenshot](../../raw/master/screenshot.png "Screenshot")
 
-Since [JavaMelody](https://github.com/javamelody/javamelody/wiki) v1.74, you can change the monitoring reports to the **dark theme** by adding the following dependency in you pom.xml:
+Since [JavaMelody](https://github.com/javamelody/javamelody/wiki) v1.74, you can change the monitoring reports to the **dark theme** by adding the following dependency in your pom.xml:
 ```xml
 <dependency>
 	<groupId>net.bull.javamelody</groupId>
